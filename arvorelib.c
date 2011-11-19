@@ -16,3 +16,44 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "arvorelib.h"
+
+struct desc_tree *init()
+{
+	
+	/*
+	 * Entradas:	Não tem
+	 *
+	 * Função:		Aloca espaço, inicializa fila
+	 * 
+	 * Saída:		Um ponteiro para um descritor de fila
+	 */
+	 
+	struct desc_tree *descritor;
+	descritor = malloc(sizeof(struct desc_tree));
+	if( descritor == NULL)
+	{
+		printf("		Oops! Não há memoria para alocar!");
+		getchar();getchar();
+		exit(1);
+	}
+	else
+	{
+		descritor->raiz = NULL;
+		descritor->tamanho = 0;
+	}
+	
+}
+int find(struct desc_tree *descritor, struct nodo *T)
+{
+	return 0;
+}
+
+int insert(struct desc_tree *descritor, struct nodo *T)
+{
+	return 0;
+}
+
+int delete(struct desc_tree *descritor, struct nodo *T)
+{
+	return 0;
+}

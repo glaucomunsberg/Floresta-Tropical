@@ -19,6 +19,7 @@
 
 int main()
 {
-	
+	struct desc_tree *descritor;
+	descritor = init();
 	return 0;
 }
