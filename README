@@ -1,3 +1,7 @@
+Versão 0.2.1
+	Correções
+		Nova remodelagem na forma de construção da árvore
+		
 Versão 0.2
 	Implementação
 		Inserir
@@ -5,6 +9,7 @@ Versão 0.2
 		Imprimir Pre,Pos,Ordem
 	Correções
 		Elementos que compõem a árvore
+
 
 Versão 0.1
 	Implementação
