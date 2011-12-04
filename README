@@ -1,7 +1,19 @@
+Versão 0.9
+	Implementação
+		Imprimir
+		Encontrar
+	Correções
+		No balanceamento
+		Melhoria da interface com o usuário
+
+Versão 0.3 ~
+	Obs.: Por um equivoco parte dos commits foram
+		removidos por acidente
+
 Versão 0.2.1
 	Correções
 		Nova remodelagem na forma de construção da árvore
-		
+
 Versão 0.2
 	Implementação
 		Inserir
@@ -23,7 +35,8 @@ Versão 0.0
 		Corpo das funções
 		
 ° Observação
-	None.
+	Versão 0 ~ 0.2.1 o trabalho não se encontrava dentro
+		das especificações do professor.
 
 ° We have a problem Houston?!
 	None.
